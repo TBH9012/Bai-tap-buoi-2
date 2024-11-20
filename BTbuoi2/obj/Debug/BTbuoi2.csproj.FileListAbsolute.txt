@@ -1,0 +1,7 @@
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BTbuoi2\BTbuoi2\bin\Debug\BTbuoi2.exe.config
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BTbuoi2\BTbuoi2\bin\Debug\BTbuoi2.exe
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BTbuoi2\BTbuoi2\bin\Debug\BTbuoi2.pdb
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BTbuoi2\BTbuoi2\obj\Debug\BTbuoi2.csproj.AssemblyReference.cache
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BTbuoi2\BTbuoi2\obj\Debug\BTbuoi2.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BTbuoi2\BTbuoi2\obj\Debug\BTbuoi2.exe
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BTbuoi2\BTbuoi2\obj\Debug\BTbuoi2.pdb
